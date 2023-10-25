@@ -1,0 +1,79 @@
+form{
+    border: 1px solid black;
+    width: 30%;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    font-size: 14px;
+
+}
+.legend{
+    color: goldenrod;
+    font-size: 18px;
+}
+.ivan{
+    margin-bottom: 5px;
+}
+.ivan p {
+    margin: 5px;
+    color: green;
+}
+.name{
+    width: 100%;
+    color: green;
+}
+.gender{
+    width: 100%;
+    display: flex;
+}
+.gender p {
+    margin: 5px;
+    color: blueviolet;
+}
+.range{
+    width: 100%;
+}
+.date{
+    display: flex;
+    align-items: center;
+
+}
+.date p {
+    margin: 5px;
+    color: aqua;
+    font-size: 15px;
+}
+.birthday{
+    margin-right: 5px;
+    margin: 0px;
+}
+.grade{
+    display: flex;
+    align-items: center;
+}
+.grade p {
+    margin: 0px;
+    font-size: 12px;
+}
+.competention p {
+    margin: 0px;
+}
+.face{
+    margin-bottom: 5px;
+}
+.face p {
+    margin: 0px;
+}
+.politic{
+    margin: 0px;
+    display: flex;
+    align-self: flex-start;
+}
+.politic p {
+    margin: 0px;
+    font-size: 12px;
+    color: gray;
+}
+.button{
+    background-color: aqua;
+}
